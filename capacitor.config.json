@@ -1,0 +1,10 @@
+{
+  "appId": "com.boringfocus.app",
+  "appName": "Boring Focus",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#06070a"
+  }
+}

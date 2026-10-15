@@ -1,0 +1,23 @@
+# Android build outputs & caches
+.gradle/
+build/
+android/app/build/
+android/.gradle/
+android/build/
+local.properties
+
+# Dependencies
+node_modules/
+.npm/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+.idea/
+*.iml
+.vscode/
+
+# Local zips
+release/*.zip
